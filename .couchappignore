@@ -1,13 +1,7 @@
 [
-  "Assetfile",
-  "Gemfile*",
-  "Guardfile",
-  "Rakefile",
-  "LICENSE",
-  "README",
-  "config.ru",
-  "app$",
-  "app-tests.js",
-  "tmp",
-  "tests$"
+  // filenames matching these regexps will not be pushed to the database
+  // uncomment to activate; separate entries with ","
+  // ".*~$"
+  // ".*\\.swp$"
+  // ".*\\.bak$"
 ]
